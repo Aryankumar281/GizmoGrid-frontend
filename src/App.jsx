@@ -1,6 +1,6 @@
 import { useState, createContext } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+// import reactLogo from "./assets/react.svg";
+// import viteLogo from "/vite.svg";
 import Register from "./components/Register";
 import Product from "./components/Product";
 import Cart from "./components/Cart";
