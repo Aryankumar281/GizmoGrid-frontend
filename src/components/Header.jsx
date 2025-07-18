@@ -10,7 +10,7 @@ export default function Header() {
     <header className="bg-white shadow-md p-4 sticky top-0 z-10">
       <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between">
         <h1 className="text-2xl font-bold text-indigo-600 mb-2 sm:mb-0">
-          MERN Frontend
+          GizmoGrid
         </h1>
         <nav className="flex flex-wrap gap-4 text-gray-700 font-medium">
           <Link
