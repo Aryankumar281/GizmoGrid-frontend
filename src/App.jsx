@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App-Container">
       <AppContext.Provider value={{ cart, setCart, user, setUser }}>
-        <BrowserRouter>
+          
           <Header />
           <Routes>
             <Route index  element={<Home />} />
